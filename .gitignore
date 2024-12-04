@@ -1,0 +1,14 @@
+# Ignore all node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore the .env file
+.env
+
+# Ignore PHP session files
+*.sess
+
+# Ignore all temporary files
+*.tmp
